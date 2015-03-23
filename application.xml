@@ -44,6 +44,7 @@
     <autoOrients>false</autoOrients>
     <softKeyboardBehavior>none</softKeyboardBehavior>
     <depthAndStencil>false</depthAndStencil>
+    <requestedDisplayResolution>standard</requestedDisplayResolution>
   </initialWindow>
   <icon>
     <image48x48>icons/icon_48.png</image48x48>
